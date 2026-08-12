@@ -17,7 +17,7 @@ Antes de comenzar la práctica, los estudiantes deben asegurarse de cumplir con 
    * Placa de expansión **Sense** (la que contiene la cámara y el micrófono) correctamente ensamblada ("clic" de conexión).
    * Cable USB-C con soporte para transferencia de datos.
 2. **Software:**
-   * Arduino IDE (Versión 2.3.x recomendada).
+   * Arduino IDE (Versión 3.x recomendada).
    * Soporte de placas ESP32 instalado en el Gestor de Tarjetas (`esp32 by Espressif Systems` **versión 3.3.10 o superior**).
 3. **Configuración en Arduino IDE:**
    * **Placa:** `XIAO_ESP32S3`.
